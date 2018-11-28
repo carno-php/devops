@@ -1,0 +1,16 @@
+{
+  "name": "carno-php/devops",
+  "description": "DevOps assisted components",
+  "license": "MIT",
+  "require": {
+    "carno-php/log": "^1.0",
+    "carno-php/socket": "^1.0",
+    "carno-php/traced": "^1.0",
+    "carno-php/monitor": "^1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
